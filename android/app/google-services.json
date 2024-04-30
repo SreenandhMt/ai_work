@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773892008765",
+    "project_id": "fir-ai-9862a",
+    "storage_bucket": "fir-ai-9862a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773892008765:android:91baebb1c166f36996f354",
+        "android_client_info": {
+          "package_name": "com.example.ai_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18BpUTmWD9smek_o2WsOiR1c21fvbh2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
